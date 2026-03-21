@@ -35,22 +35,20 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```python
-class KartavyaRaikwar:
-    def __init__(self):
-        self.name       = "Kartavya Raikwar"
-        self.role       = "ML Engineer & AI-Driven App Developer"
-        self.location   = "Bhopal, Madhya Pradesh, India 🇮🇳"
-        self.education  = "CSE Diploma @ LNCT Group of Colleges"
-        self.focus      = ["Production ML APIs", "Flutter Android Apps", "FastAPI Backends"]
-        self.deployed   = ["Render", "Streamlit Cloud", "Firebase"]
+Hi, I'm Kartavya 👋
 
-    def summary(self):
-        return """
-        I build intelligent, high-performance digital products at real-world scale.
-        From raw dataset → preprocessing → model training → REST API → live Android app.
-        I specialize in ML systems, scalable backends, and AI-powered mobile applications
-        that automate decisions and deliver measurable business value.
-        """
+I build AI-powered applications using Python, FastAPI, and Flutter.
+
+🔹 Built ML APIs with real-world datasets (Loan, Diabetes, Healthcare)
+🔹 Deployed live apps (Streamlit, Render)
+🔹 Currently learning MLOps & Docker
+
+🚀 Featured Projects:
+- AI Loan Prediction System (API + Android App)
+- Anemia Detection ML System
+- Neon Beats (Flutter Music App)
+
+📫 Contact: kartvayaraikwar@gmail.com
 ```
 
 > 🎯 **Currently:** Building end-to-end ML systems with FastAPI backends + Flutter frontends  
