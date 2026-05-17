@@ -252,7 +252,7 @@ I build AI-powered applications using Python, FastAPI, and Flutter.
 
 | 🏫 Institution | 📚 Degree | 📅 Year |
 |:---:|:---:|:---:|
-| **LNCT Group of Colleges, Bhopal** | Diploma in Computer Science Engineering | 2024 – 2027 |
+| ** |
 
 </div>
 
