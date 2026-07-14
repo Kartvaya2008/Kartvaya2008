@@ -171,11 +171,7 @@ Built AnemiaSense end to end: preprocessed 5,000+ real healthcare records, perfo
 
 <br/>
 
-## Education
 
-`[[ ADD YOUR INSTITUTION, DEGREE, AND YEARS HERE ]]`
-
-<br/>
 
 ## Certifications
 
