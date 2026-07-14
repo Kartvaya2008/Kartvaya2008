@@ -1,335 +1,168 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kartavya%20Raikwar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20Systems%20%7C%20Flutter%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<svg width="100%" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="160" fill="#0d0d0d"/>
+  <text x="50%" y="55%" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#eaeaea" letter-spacing="2">
+    KARTAVYA RAIKWAR
+    <animate attributeName="opacity" values="0;1" dur="2s" fill="freeze"/>
+  </text>
+  <text x="50%" y="75%" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#8a8a8a" letter-spacing="4">
+    AI SYSTEMS ENGINEER — FOUNDER, KARTAVYA LABS
+    <animate attributeName="opacity" values="0;0;1" dur="3s" fill="freeze"/>
+  </text>
+  <line x1="250" y1="115" x2="650" y2="115" stroke="#3a3a3a" stroke-width="1">
+    <animate attributeName="x2" values="250;650" dur="2.2s" fill="freeze"/>
+  </line>
+</svg>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Production+Systems+%F0%9F%A4%96;FastAPI+%2B+ML+%2B+Flutter+%3D+Real+World+Impact+%F0%9F%9A%80;From+Dataset+to+Deployed+API+in+Hours+%E2%9A%A1)](https://git.io/typing-svg)
+<a href="https://www.linkedin.com/in/kartavya26/"><img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=flat-square&logo=linkedin&logoColor=cfcfcf&labelColor=0d0d0d" /></a>
+<a href="mailto:kartvayaraikwar@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d0d0d?style=flat-square&logo=gmail&logoColor=cfcfcf&labelColor=0d0d0d" /></a>
+<a href="https://x.com/Kartvaya_"><img src="https://img.shields.io/badge/X-0d0d0d?style=flat-square&logo=x&logoColor=cfcfcf&labelColor=0d0d0d" /></a>
+<a href="https://youtube.com/@kartvaya26-v"><img src="https://img.shields.io/badge/YOUTUBE-0d0d0d?style=flat-square&logo=youtube&logoColor=cfcfcf&labelColor=0d0d0d" /></a>
+<a href="https://kartavyalabs.pro"><img src="https://img.shields.io/badge/KARTAVYA_LABS-0d0d0d?style=flat-square&logoColor=cfcfcf&labelColor=0d0d0d" /></a>
 
 </div>
 
+<br/>
+
+## About
+
+Builds AI-powered systems end to end — from raw dataset, to trained model, to a deployed product with a real interface. Works across applied machine learning, backend APIs, and mobile app engineering.
+
+Runs **Kartavya Labs**, a product engineering and design studio building AI-driven SaaS platforms, mobile applications, and digital products for founders and early-stage teams.
+
+Based in Bhopal, Madhya Pradesh, India.
+
+| | |
+|---|---|
+| **Currently** | Advanced MLOps, model optimization, containerized deployment |
+| **Open to** | ML engineering roles, applied AI collaborations, freelance product builds |
+
+<br/>
+
+## Stack
+
+**Machine Learning**
+
+<img src="https://img.shields.io/badge/PYTHON-1a1a1a?style=flat-square&logo=python&logoColor=cfcfcf&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/SCIKIT_LEARN-1a1a1a?style=flat-square&logo=scikitlearn&logoColor=cfcfcf&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/PANDAS-1a1a1a?style=flat-square&logo=pandas&logoColor=cfcfcf&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/NUMPY-1a1a1a?style=flat-square&logo=numpy&logoColor=cfcfcf&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/MATPLOTLIB-1a1a1a?style=flat-square&logo=plotly&logoColor=cfcfcf&labelColor=1a1a1a" />
+
+**Backend & Data**
+
+<img src="https://img.shields.io/badge/FASTAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=cfcfcf&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/POSTGRESQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=cfcfcf&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/SQL-1a1a1a?style=flat-square&logoColor=cfcfcf&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/DOCKER-1a1a1a?style=flat-square&logo=docker&logoColor=cfcfcf&labelColor=1a1a1a" />
+
+**Mobile & Interfaces**
+
+<img src="https://img.shields.io/badge/FLUTTER-1a1a1a?style=flat-square&logo=flutter&logoColor=cfcfcf&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/DART-1a1a1a?style=flat-square&logo=dart&logoColor=cfcfcf&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/STREAMLIT-1a1a1a?style=flat-square&logo=streamlit&logoColor=cfcfcf&labelColor=1a1a1a" />
+
+**Infrastructure**
+
+<img src="https://img.shields.io/badge/GIT-1a1a1a?style=flat-square&logo=git&logoColor=cfcfcf&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/GITHUB-1a1a1a?style=flat-square&logo=github&logoColor=cfcfcf&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/FIREBASE-1a1a1a?style=flat-square&logo=firebase&logoColor=cfcfcf&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/RENDER-1a1a1a?style=flat-square&logo=render&logoColor=cfcfcf&labelColor=1a1a1a" />
+
+<br/>
+
+## Featured Projects
+
+**AI Loan Risk Prediction System**
+End-to-end loan approval engine trained on 10,000+ records (Kaggle Loan Dataset). Missing-value handling, categorical encoding, and standard scaling feed an 80/20 split with 5-fold cross-validation comparing Logistic Regression against Random Forest — F1-Score 0.91. Async FastAPI endpoints deployed on Render, consumed by a Flutter Android app, with PostgreSQL prediction logs and 1,000+ API requests tested.
+Repo — https://github.com/Kartvaya2008/AI-Loan-Predictor-ML-App-Android-Public-API-
+Docs — https://drive.google.com/drive/u/1/folders/17MzwS0ZA2YogJs1MIjXSNiZ_JkxOWOzg
+
+**Diabetes Risk Prediction API**
+Built on the Pima Indians Diabetes Dataset (768 records) with feature scaling and missing-value handling. An 80/20 split with cross-validation benchmarks multiple classifiers into an optimized Random Forest — F1-Score 0.89. Exposed via a FastAPI REST endpoint with a live public Streamlit app.
+Live — https://kartvaya26diabetes-ai.streamlit.app/
+
+**AnemiaSense — Anaemia Prediction System** *(internship project)*
+Early anaemia detection from healthcare records for clinical decision support, engineered on 5,000+ records with a full preprocessing and feature-engineering pipeline. Cross-validation-based model selection feeds a REST API for real-time inference and a functional Streamlit health-prediction interface.
+Repo — https://github.com/Kartvaya2008/Anemia-Sense-Leveraging-Machine-Learning-For-Precise-Anemia-Recognitions
+Live — https://anemiscan26.streamlit.app
+
+**Neon Beats**
+Production-grade Flutter music streaming application engineered to handle audio libraries exceeding 50,000 tracks, architected around BLoC state management.
+Repo — https://github.com/Kartvaya2008/Neon-Beats-Flutter-Music-Streaming-Application
+
+**Web-Based Bank Loan Prediction**
+Machine learning application predicting loan approval status through an interactive Streamlit interface.
+Repo — https://github.com/Kartvaya2008/Web-Based-Bank-Loan-Prediction
+
+<br/>
+
+## Kartavya Labs — Studio Work
+
+Product engineering and design studio building AI-driven SaaS platforms, mobile apps, and digital products.
+
+| Product | Description |
+|---|---|
+| **TATVA** | Fintech application, modern UI, dark mode and light mode |
+| **LUMIQ** | AI creative studio platform |
+| **Banking Hub** | React dashboard, dark mode and light mode |
+| **RAG System** | Document intelligence, retrieval-augmented generation |
+
+Studio — https://kartavyalabs.pro
+Case studies — https://kartavyalabs.pro/presentation
+
+<br/>
+
+## Experience
+
+**Machine Learning Engineer — SmartBridge Indonesia** *(Virtual Internship)*
+November 2025 – January 2026 · Remote
+Built AnemiaSense end to end: preprocessed 5,000+ real healthcare records, performed feature engineering and cross-validation-based model selection, deployed a REST API for real-time inference, and delivered a functional Streamlit health-prediction interface.
+
+<br/>
+
+## Education
+
+`[[ ADD YOUR INSTITUTION, DEGREE, AND YEARS HERE ]]`
+
+<br/>
+
+## Certifications
+
+<img src="https://img.shields.io/badge/CERTIFICATION_NAME-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a&logoColor=cfcfcf" />
+<img src="https://img.shields.io/badge/CERTIFICATION_NAME-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a&logoColor=cfcfcf" />
+
+`[[ ADD CERTIFICATION TITLES HERE ]]`
+
+<br/>
+
+## Metrics
+
 <div align="center">
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![AI Engineer](https://img.shields.io/badge/AI%20Engineer-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)](#)
-
+<img src="https://raw.githubusercontent.com/Kartvaya2008/Kartvaya2008/main/metrics.svg" alt="metrics"/>
 </div>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartavya26)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kartvaya2008)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kartvayaraikwar@gmail.com)
-[![Live App](https://img.shields.io/badge/Live%20ML%20App-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://kartvaya26diabetes-ai.streamlit.app/)
-![Profile Views](https://komarev.com/ghpvc/?username=Kartvaya2008&style=flat-square&color=6AD3F7)
-
+<img src="https://raw.githubusercontent.com/Kartvaya2008/Kartvaya2008/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </div>
 
----
+<br/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
-```python
-Hi, I'm Kartavya 👋
-
-I build AI-powered applications using Python, FastAPI, and Flutter.
-
-🔹 Built ML APIs with real-world datasets (Loan, Diabetes, Healthcare)
-🔹 Deployed live apps (Streamlit, Render)
-🔹 Currently learning MLOps & Docker
-
-🚀 Featured Projects:
-- AI Loan Prediction System (API + Android App)
-- Anemia Detection ML System
-- Neon Beats (Flutter Music App)
-
-📫 Contact: kartvayaraikwar@gmail.com
-```
-
-> 🎯 **Currently:** Building end-to-end ML systems with FastAPI backends + Flutter frontends  
-> 📚 **Learning:** Advanced MLOps, Model optimization, Docker containerization  
-> 💡 **Open to:** ML Engineering roles, AI project collaborations, Freelance work  
-
----
-
-## 🛠️ Tech Stack
+## Contact
 
 <div align="center">
 
-### 🤖 AI & Machine Learning
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org)
-
-### ⚡ Backend & APIs
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
-
-### 📱 Mobile & Frontend
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
-
-### ☁️ DevOps & Cloud
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com)
+<a href="https://www.linkedin.com/in/kartavya26/"><img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=flat-square&logo=linkedin&logoColor=cfcfcf&labelColor=0d0d0d" /></a>
+<a href="mailto:kartvayaraikwar@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d0d0d?style=flat-square&logo=gmail&logoColor=cfcfcf&labelColor=0d0d0d" /></a>
+<a href="https://kartavyalabs.pro/contact"><img src="https://img.shields.io/badge/KARTAVYA_LABS_CONTACT-0d0d0d?style=flat-square&logoColor=cfcfcf&labelColor=0d0d0d" /></a>
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🏦 AI Loan Risk Prediction System
-
-</div>
-
-<table>
-<tr>
-<td width="60%">
-
-**🎯 Problem Solved:** Automate loan approval screening to eliminate manual review bottlenecks
-
-**⚙️ Key Features:**
-- 🔍 Trained on **10,000+ records** (Kaggle Loan Dataset)
-- 🧹 Missing value handling + categorical encoding + StandardScaler
-- 🔁 80/20 split with **5-fold cross-validation**
-- 🌲 Logistic Regression vs Random Forest comparison
-- 📊 **F1-Score: 0.91** with class imbalance handling
-- 🚀 Async FastAPI endpoints deployed on **Render**
-- 📱 Flutter Android app consuming REST API
-- 🗄️ PostgreSQL prediction logs (input + timestamp + result)
-- 🧪 Tested with **1,000+ API requests**
-
-</td>
-<td width="40%" align="center">
-
-**Tech Stack**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](#)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](#)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](#)
-[![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
-
-**F1 Score**
-```
-██████████████████░░  0.91
-```
-
-[![📄 Documentation](https://img.shields.io/badge/📄_Docs-4285F4?style=for-the-badge)](https://drive.google.com/drive/u/1/folders/17MzwS0ZA2YogJs1MIjXSNiZ_JkxOWOzg)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-### 🩺 Diabetes Risk Prediction API
-
-</div>
-
-<table>
-<tr>
-<td width="40%" align="center">
-
-**Tech Stack**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](#)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](#)
-[![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat-square)](#)
-
-**F1 Score**
-```
-█████████████████░░░  0.89
-```
-
-[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF4B4B?style=for-the-badge)](https://kartvaya26diabetes-ai.streamlit.app/)
-
-</td>
-<td width="60%">
-
-**🎯 Problem Solved:** Early identification of high-risk diabetes patients using health indicators
-
-**⚙️ Key Features:**
-- 📋 **Pima Indians Diabetes Dataset** (768 records)
-- 🧹 Feature scaling + missing value handling
-- 🔁 80/20 split with cross-validation
-- 🏆 Multiple classifiers benchmarked → optimized Random Forest
-- 📊 **F1-Score: 0.89** on evaluation
-- ⚡ REST API endpoint via FastAPI
-- 🌐 **Live Streamlit web app** deployed and publicly accessible
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-### 🩸 AnemiaSense — Anaemia Prediction System *(Internship Project)*
-
-</div>
-
-<table>
-<tr>
-<td width="60%">
-
-**🎯 Problem Solved:** Early anaemia detection from healthcare records for clinical decision support
-
-**⚙️ Key Features:**
-- 🏥 Engineered on **5,000+ healthcare records**
-- 🧹 Preprocessing + feature engineering pipeline
-- 🔁 Cross-validation-based model selection
-- 🚀 REST API for real-time inference
-- 🌐 Functional health prediction interface via Streamlit
-
-</td>
-<td width="40%" align="center">
-
-**Tech Stack**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](#)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#)
-
-[![🌐 Live App](https://img.shields.io/badge/🌐_Live_App-FF4B4B?style=for-the-badge)](https://anemiscan26.streamlit.app)
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Experience
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║   🏢  SmartBridge Indonesia                                          ║
-║   💼  Machine Learning Engineer — Virtual Internship                 ║
-║   📅  November 2025 – January 2026  (3 months)  |  🌏 Remote        ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   ✅  Built end-to-end ML system: AnemiaSense                        ║
-║   ✅  Preprocessed 5,000+ real healthcare records                    ║
-║   ✅  Feature engineering & cross-validation model selection         ║
-║   ✅  Deployed REST API for real-time inference                       ║
-║   ✅  Delivered functional health prediction Streamlit interface      ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| 🏫 Institution | 📚 Degree | 📅 Year |
-|:---:|:---:|:---:|
-| ** |
-
-</div>
-
-### 📜 Certifications
-
-<div align="center">
-
-[![AI Cert](https://img.shields.io/badge/✅_Getting_Started_with_AI-0A66C2?style=flat-square&logo=coursera&logoColor=white)](#)
-[![LLM Cert](https://img.shields.io/badge/✅_Large_Language_Model_Basics-FF6F00?style=flat-square&logo=google&logoColor=white)](#)
-[![ML Internship](https://img.shields.io/badge/✅_Virtual_Internship_ML_Engineer-009688?style=flat-square&logo=fastapi&logoColor=white)](#)
-[![Intro AI](https://img.shields.io/badge/✅_Introduction_to_AI-8A2BE2?style=flat-square&logo=openai&logoColor=white)](#)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kartvaya2008&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartvaya2008&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartvaya2008&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartvaya2008&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kartvaya2008&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/kartavya26">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Kartvaya2008">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:kartvayaraikwar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://kartvaya26diabetes-ai.streamlit.app/">
-  <img src="https://img.shields.io/badge/Live_App-View_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</a>
-
-<br><br>
-
-> 💬 *"I don't just build models. I build systems that work in production."*
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
