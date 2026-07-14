@@ -173,25 +173,6 @@ Built AnemiaSense end to end: preprocessed 5,000+ real healthcare records, perfo
 
 
 
-## Certifications
-
-<img src="https://img.shields.io/badge/CERTIFICATION_NAME-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a&logoColor=cfcfcf" />
-<img src="https://img.shields.io/badge/CERTIFICATION_NAME-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a&logoColor=cfcfcf" />
-
-`[[ ADD CERTIFICATION TITLES HERE ]]`
-
-<br/>
-
-## Metrics
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Kartvaya2008/Kartvaya2008/main/metrics.svg" alt="metrics" width="100%"/>
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Kartvaya2008/Kartvaya2008/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%"/>
-</div>
-
 <br/>
 
 ## Contact
