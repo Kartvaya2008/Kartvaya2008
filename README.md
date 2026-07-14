@@ -31,7 +31,7 @@
 <tr>
 <td width="65%" valign="top">
 
-Builds AI-powered systems end to end — from raw dataset, to trained model, to a deployed product with a real interface. Works across applied machine learning, backend APIs, and mobile app engineering.
+Builds AI-powered systems end to end from raw dataset, to trained model, to a deployed product with a real interface. Works across applied machine learning, backend APIs, and mobile app engineering.
 
 Runs **Kartavya Labs**, a product engineering and design studio building AI-driven SaaS platforms, mobile applications, and digital products for founders and early-stage teams.
 
@@ -107,7 +107,7 @@ Based in Bhopal, Madhya Pradesh, India.
 <td width="50%" valign="top">
 
 **AI Loan Risk Prediction System**
-End-to-end loan approval engine trained on 10,000+ records (Kaggle Loan Dataset). Missing-value handling, categorical encoding, and standard scaling feed an 80/20 split with 5-fold cross-validation comparing Logistic Regression against Random Forest — F1-Score 0.91. Async FastAPI endpoints deployed on Render, consumed by a Flutter Android app, with PostgreSQL prediction logs and 1,000+ API requests tested.
+End-to-end loan approval engine trained on 10,000+ records (Kaggle Loan Dataset). Missing-value handling, categorical encoding, and standard scaling feed an 80/20 split with 5-fold cross-validation comparing Logistic Regression against Random Forest F1-Score 0.91. Async FastAPI endpoints deployed on Render, consumed by a Flutter Android app, with PostgreSQL prediction logs and 1,000+ API requests tested.
 Repo — https://github.com/Kartvaya2008/AI-Loan-Predictor-ML-App-Android-Public-API-
 Docs — https://drive.google.com/drive/u/1/folders/17MzwS0ZA2YogJs1MIjXSNiZ_JkxOWOzg
 
