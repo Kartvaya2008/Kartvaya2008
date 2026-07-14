@@ -7,7 +7,7 @@
     <animate attributeName="opacity" values="0;1" dur="2s" fill="freeze"/>
   </text>
   <text x="50%" y="75%" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#8a8a8a" letter-spacing="4">
-    AI SYSTEMS ENGINEER — FOUNDER, KARTAVYA LABS
+    AI SYSTEMS ENGINEER — Building , KARTAVYA LABS
     <animate attributeName="opacity" values="0;0;1" dur="3s" fill="freeze"/>
   </text>
   <line x1="250" y1="115" x2="650" y2="115" stroke="#3a3a3a" stroke-width="1">
